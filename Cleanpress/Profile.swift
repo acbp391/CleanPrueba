@@ -29,7 +29,7 @@ class Profile: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var ProgressBlue: UIProgressView!
     @IBOutlet weak var LabelBlueFirst: UILabel!
     
-   
+   nsloo
     
     //varibles of Credit Card Number
    

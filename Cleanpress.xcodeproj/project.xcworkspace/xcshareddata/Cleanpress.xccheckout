@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>702496EF-7F9E-4F5C-85A8-C04BE5ACC33D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cleanpress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D1B67F13DD02B7E44D1836808D14414DAF8D2E4</key>
+		<string>https://github.com/acbp391/CleanPrueba.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cleanpress.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D1B67F13DD02B7E44D1836808D14414DAF8D2E4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/acbp391/CleanPrueba.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D1B67F13DD02B7E44D1836808D14414DAF8D2E4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D1B67F13DD02B7E44D1836808D14414DAF8D2E4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CleanPrueba</string>
+		</dict>
+	</array>
+</dict>
+</plist>

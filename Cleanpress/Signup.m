@@ -78,6 +78,8 @@
         [self.CPw becomeFirstResponder];
     }else if (textField == self.CPw){
         [textField resignFirstResponder];
+       
+        
     }
     
     return YES;
