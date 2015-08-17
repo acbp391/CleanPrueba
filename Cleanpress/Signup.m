@@ -111,6 +111,8 @@
     NSString *email = self.EmailSign.text;
     NSString *emailcon = self.ConfirmEmail.text;
     if (![email isEqualToString:emailcon]) {
+        
+        NSLOG(@ "PROBANDO EL PUSH AL MASTER DIRECTO ");
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"ALERT" message:@"Please verify if both email are equals" delegate:self cancelButtonTitle:nil otherButtonTitles:@"Ok", nil];
         [alert show];
         //[alert release];
